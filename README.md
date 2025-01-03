@@ -33,3 +33,4 @@ Performance analysis of key segments like sarees, kurtas, and western dresses pr
 * Leverage key sales channels like Amazon, Flipkart, and Myntra for promotional campaigns.
 
 
+<img src="dashboard_2.png">
